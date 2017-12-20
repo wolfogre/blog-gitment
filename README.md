@@ -1,2 +1,5 @@
 # blog-gitment
-Gitment of http://blog.wolfogre.com
+
+Gitment for http://blog.wolfogre.com
+
+To know more about Gitment: https://github.com/imsun/gitment
